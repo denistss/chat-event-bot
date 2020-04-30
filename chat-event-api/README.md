@@ -1,1 +1,1 @@
-# API de com informações de eventos
+# API com informaÃ§Ãµes de eventos
