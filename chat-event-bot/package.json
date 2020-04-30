@@ -1,0 +1,27 @@
+{
+  "name": "chat-event-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denistss/chat-event-bot.git"
+  },
+  "keywords": [
+    "chatbot"
+  ],
+  "author": "Denis T Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denistss/chat-event-bot/issues"
+  },
+  "homepage": "https://github.com/denistss/chat-event-bot#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "telegram-node-bot": "^4.0.5"
+  }
+}
